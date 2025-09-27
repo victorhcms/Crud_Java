@@ -1,6 +1,3 @@
-## Getting Started
-
-Welcome to the VS Code Java world!
 Este projeto foi desenvolvido utilizando Java Swing com o objetivo de aprendizado, implementando um CRUD (Create, Read, Update, Delete).
 
 ## Structure:
